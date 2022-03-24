@@ -3,7 +3,7 @@ owner: LStack
 email:
 description: From 0 to omega and omega to alpha
 baseurl: "/minimalist" # the subpath of your site, e.g. /blog
-url: "https://trybnetic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://laughablestack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
 github_username:
